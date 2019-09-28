@@ -1,0 +1,77 @@
+
+[
+    {
+        "package_id":"SIH000001",
+        "package_name": "Coastal Breeze",
+        "source":"Chennai",
+        "destination":"Mumbai",
+        "fare_id":"FARE001",
+        "image":"/img/chennai1.5ffa1816.jpg"
+
+    },
+    {
+        "package_id":"SIH000002",
+        "source":"Mumbai",
+		"destination":"Chennai",
+        "package_name": "Coastal Breeze",
+        "fare_id":"FARE002",
+        "image":"/img/mumbai.ec5ec448.jpg"
+
+    },
+    {
+        "package_id":"SIH000003",
+        "package_name": "Vijayanagar Experience",
+        "source":"Bengaluru",
+		"destination":"Mumbai",
+        "fare_id":"FARE003",
+        "image":"/img/bangaluru.ad58af2f.jpg"
+
+
+    },
+    {
+        "package_id":"SIH000004",
+        "source":"Mumbai",
+		"destination":"Bengaluru",
+        "package_name": "Vijayanagar Experience",
+        "fare_id":"FARE004",
+        "image":"/img/mumbai2.af3ff5b2.jpg"
+
+    },
+    {
+        "package_id":"SIH000005",
+        "package_name": "Deccan Dilbaug",
+        "source":"Mumbai",
+		"destination":"Bengaluru",
+        "fare_id":"FARE005",
+        "image":"/img/nagpur.a06ddba8.jpg"
+
+    },
+    {
+        "package_id":"SIH000006",
+        "source":"Bengaluru",
+		"destination":"Mumbai",
+        "package_name": "Deccan Dilbaug",
+        "fare_id":"FARE006",
+        "image":"/img/nasik.f20e850d.jpg"
+
+    },
+    {
+        "package_id":"SIH000007",
+        "package_name": "Eastern Seascape",
+        "source":"Hyderabad",
+		"destination":"Chennai",
+        "fare_id":"FARE007",
+        "image":"/img/hyderabad.42e9ea4a.jpg"
+
+
+    },
+    {
+        "package_id":"SIH000008",
+        "source":"Chennai",
+		"destination":"Hyderabad",
+        "package_name": "Eastern Seascape",
+        "fare_id":"FARE008",
+        "image":"/img/tirupati.7e53dad3.jpg"
+    }
+
+]
