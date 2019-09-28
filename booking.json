@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Abhinash",
+        "age":25,
+        "phone":"7602743422",
+        "package_id":"SIH000002",
+        "package_name": "Coastal Breeze",
+        "coach_id":"C0001",
+        "seat_number":"E1",
+        "total_price":7542457,
+        "addons":["wifi","spa"]
+    }
+]

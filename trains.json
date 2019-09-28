@@ -1,0 +1,50 @@
+[
+    {
+        "train_number": "TRN00001",
+        "train_name": "Coastal Express",
+        "package_id": "SIH000001",
+        "time_id":"TIME0001"
+    },
+    {
+        "train_number": "TRN00001",
+        "train_name": "Coastal Express",
+        "package_id": "SIH000002",
+        "time_id":"TIME0002"
+    },
+    {
+        "train_number": "TRN00002",
+        "train_name": "Vijayanagar Express",
+        "package_id": "SIH000003",
+        "time_id":"TIME0003"
+    },
+    {
+        "train_number": "TRN00002",
+        "train_name": "Vijayanagar Express",
+        "package_id": "SIH000004",
+        "time_id":"TIME0004"
+    },
+    {
+        "train_number": "TRN00003",
+        "train_name": "Deccan Express",
+        "package_id": "SIH000005",
+        "time_id":"TIME0005"
+    },
+    {
+        "train_number": "TRN00003",
+        "train_name": "Deccan Express",
+        "package_id": "SIH000006",
+        "time_id":"TIME0006"
+    },
+    {
+        "train_number": "TRN00004",
+        "train_name": "Eastern Express",
+        "package_id": "SIH000007",
+        "time_id":"TIME0007"
+    },
+    {
+        "train_number": "TRN00004",
+        "train_name": "Eastern Express",
+        "package_id": "SIH000008",
+        "time_id":"TIME0008"
+    }
+]

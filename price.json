@@ -1,0 +1,76 @@
+
+[
+    {
+        "fare_id":"FARE001",
+        "fare_name": "Coastal",
+        "price_exeutive": 588000,
+        "price_premier": 458000,
+        "price_club": 295000, 
+        "wifi": 500,
+        "spa": 1500
+    },
+    {
+        "fare_id":"FARE002",
+        "fare_name": "Coastal",
+        "price_exeutive": 588000,
+        "price_premier": 458000,
+        "price_club": 295000,
+        "wifi": 500,
+        "spa": 1500
+    },
+    {
+        "fare_id":"FARE003",
+        "fare_name": "Vijayanagar",
+        "price_exeutive": 468000,
+        "price_premier": 385000,
+        "price_club": 278000,
+        "wifi": 500,
+        "spa": 1200
+    },
+    {
+        "fare_id":"FARE004",
+        "fare_name": "Vijayanagar",
+        "price_exeutive": 468000,
+        "price_premier": 385000,
+        "price_club": 278000,
+        "wifi": 500,
+        "spa": 1200
+    },
+    {
+        "fare_id":"FARE005",
+        "fare_name": "Deccan",
+        "price_exeutive": 456000,
+        "price_premier": 345000,
+        "price_club": 254000,
+        "wifi": 500,
+        "spa": 1200
+    },
+    {
+        "fare_id":"FARE006",
+        "fare_name": "Deccan",
+        "price_exeutive": 456000,
+        "price_premier": 345000,
+        "price_club": 254000,
+        "wifi": 500,
+        "spa": 1200
+    },
+    {
+        "fare_id":"FARE007",
+        "fare_name": "Eastern",
+        "price_exeutive": 384000,
+        "price_premier": 326000,
+        "price_club": 240000,
+        "wifi": 500,
+        "spa": 1000
+    },
+    {
+        "fare_id":"FARE008",
+        "fare_name": "Eastern",
+        "price_exeutive": 384000,
+        "price_premier": 326000,
+        "price_club": 240000,
+        "wifi": 500,
+        "spa": 1000
+    }
+
+]
